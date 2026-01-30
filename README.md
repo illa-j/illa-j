@@ -7,14 +7,8 @@
   width="100%"
   style="border-radius: 16px; box-shadow: 0 10px 30px rgba(108, 99, 255, 0.35);"
 />
-
-<br><br>
-
 <h3>🚀 Main Stack</h3>
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,mysql,sqlite&perline=5" />
-
-<br><br>
-
 <h3>🧠 Also Familiar With</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,bootstrap,tailwind,cs,dotnet,cpp&perline=6" />
 
